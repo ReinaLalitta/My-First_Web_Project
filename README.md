@@ -9,4 +9,4 @@ This project is a static website built using HTML, CSS, and a bit of JavaScript.
 ## Project Features
 
 - Basic HTML structure
-- Styled with CSS for a clean and simple look
+- Styled with CSS for a clean and its simple look
