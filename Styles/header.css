@@ -103,3 +103,23 @@
     height: 32px;
     border-radius: 16px;
 }
+
+.notifications-icon-container {
+    position: relative;
+}
+
+.notifications-count {
+    position: absolute;
+    top: 2px;
+    right: -5px;
+    background-color: rgb(196, 13, 13);
+    color: white;
+    font-family: Roboto, Arial;
+    font-size: 11px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 10px;
+
+}
