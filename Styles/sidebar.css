@@ -7,8 +7,18 @@
     width: 73px;
 }
 
-.side-link {
-    background-color: lightslategray;
-    height: 50px;
-    margin-bottom: 1px;
+.sidebar-link {
+    height: 76px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sidebar-link:hover {
+    background-color: rgb(235, 229, 229);
+    
+}
+
+.sidebar-link img {
+    height: 25px;
 }
