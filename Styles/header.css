@@ -39,6 +39,8 @@
     border-color: aliceblue;
     margin-left: -1px;
     margin-right: 10px;
+
+    position: relative;
 }
 
 .search-bar {
